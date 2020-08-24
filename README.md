@@ -2,4 +2,4 @@
 
 Versionhallinnan materiaaleja
 
-Muokattu 9.1.2020
+Muokattu 24.8.2020
